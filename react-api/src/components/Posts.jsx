@@ -55,4 +55,4 @@ const posts = [
     },
 ]
 
-export default posts
+export default Posts
